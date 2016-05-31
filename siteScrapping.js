@@ -11,7 +11,7 @@ var mappings = new Object;
 var con = mysql.createConnection({
   host: "localhost",
   user: "root",
-  password: "$mah12abas@",
+  password: "",
   database: "dbpedia"
 });
 
